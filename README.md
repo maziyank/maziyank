@@ -2,6 +2,7 @@
 
 Here are some ideas to get you started:
 
-Just a guy who turn from accounting to programming.
+Just a guy who turns her life path from accounting to programming.
 
-Currently learning Javascript and Python.
+I am speak Javascript and Python.
+
