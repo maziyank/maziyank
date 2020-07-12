@@ -2,5 +2,5 @@
 
 Just a guy who turns her life path from accounting to programming.
 
-I am speak Javascript and Python.
+I speak Javascript and Python.
 
