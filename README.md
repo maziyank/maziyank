@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am maziyank, just a guy who turns her life path from accounting to programming.
+I am maziyank, just a guy who turns his life path from accounting to programming.
 
 I speak Javascript and Python.
 
