@@ -3,7 +3,7 @@
 - 👋 Majoring in accounting but love programming.
 - 🇮🇩 Work for Indonesian Government.
 - 💻 Learn Javascript, Go, Python, R, and Julia.
-- ❤️ Willing to contribute more on open source project
+- ❤️ Willing to contribute more on open source project.
 
   
 ## Github Stats  
