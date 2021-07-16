@@ -1,4 +1,4 @@
-## Hi there 
+## About
 
 - 👋 Majoring in accounting but love programming.
 - 🇮🇩 Work for Indonesian Government.
