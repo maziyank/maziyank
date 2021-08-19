@@ -1,8 +1,8 @@
 ## About
 
 - 👋 Majoring in accounting but love programming.
-- 🇮🇩 Working for the Indonesian Government.
-- 💻 Learning Javascript, Typescript, Go, Python, R, and Julia.
+- 💻 Working for the Indonesian Government.
+- 🌻 Learning Javascript, Typescript, Go, Python, R, and Julia.
 - ❤️ Willing to contribute more to open source projects.
 
   
